@@ -10,4 +10,6 @@ native/
 .settings/
 
 .classpath
-.projectw
+.project
+
+local.properties
