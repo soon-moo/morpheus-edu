@@ -1,0 +1,13 @@
+output/
+bin/
+build/
+gen/
+
+native/
+
+.gradle/
+.idea/
+.settings/
+
+.classpath
+.projectw
